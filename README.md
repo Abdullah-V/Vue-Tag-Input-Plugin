@@ -1,4 +1,5 @@
 # taginput-plugin
+## Simple Tag Input Plugin build with Vue.js.Try this.You will love ;)
 
 ## Project setup
 ```
